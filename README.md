@@ -18,7 +18,7 @@ apt update
 
 apt install git
 
-git clone https://github.com/ekadanuarta/Tool-X.git
+git clone https://github.com/deepraj-x/HAXOR-X
 
 cd Tool-X
 
